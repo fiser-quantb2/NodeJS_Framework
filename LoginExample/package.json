@@ -1,0 +1,14 @@
+{
+  "name" : "LoginExample",
+  "description" : "Login example useing NodeJS Framework",
+  "author" : "Tran Ba Quan",
+  "contributors" : [],
+  "dependencies" : {
+        "ejs" : "*",
+        "npm" : "*",
+        "body-parser": "*",
+        "express": "*"
+  },
+  "main" : "server.js",
+  "version" : "1.0.0"
+}
